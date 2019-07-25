@@ -1,0 +1,4 @@
+/home/vagrant/sources/es/commones/src/main/java/be/civadis/commones/invoice/command/PayInvoiceCommand.java
+/home/vagrant/sources/es/commones/src/main/java/be/civadis/commones/invoice/command/CreateInvoiceCommand.java
+/home/vagrant/sources/es/commones/src/main/java/be/civadis/commones/invoice/event/PaidInvoiceEvent.java
+/home/vagrant/sources/es/commones/src/main/java/be/civadis/commones/invoice/event/CreatedInvoiceEvent.java

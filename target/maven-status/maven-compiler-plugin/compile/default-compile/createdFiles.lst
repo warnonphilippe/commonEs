@@ -1,0 +1,4 @@
+be/civadis/commones/invoice/command/CreateInvoiceCommand.class
+be/civadis/commones/invoice/command/PayInvoiceCommand.class
+be/civadis/commones/invoice/event/CreatedInvoiceEvent.class
+be/civadis/commones/invoice/event/PaidInvoiceEvent.class
